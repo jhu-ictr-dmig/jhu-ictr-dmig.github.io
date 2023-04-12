@@ -7,3 +7,4 @@ title: "About Us"
   - Group Members
   - Communication:
     - Teams Channel Name
+  - Contributors & Acknowledgements
