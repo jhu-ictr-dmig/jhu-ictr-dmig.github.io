@@ -94,7 +94,8 @@ defaults:
       type: posts
     values:
       # layout: single
-      layout: category
+      # layout: category
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
