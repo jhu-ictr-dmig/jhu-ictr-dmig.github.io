@@ -4,9 +4,9 @@ title: "About Us"
 ---
 
 
-## Role of the ICTR Data Managers Interest Group (DMIG)
+## Role of the JHU ICTR Data Managers Interest Group (DMIG)
 
-The goal of this group is to create an environment where data managers from throughout Johns Hopkins can meet to share expertise and discuss the challenges of their unique roles in the research enterprise.
+The goal of the [JHU ICTR DMIG](https://ictr.johnshopkins.edu/service/analysis-biostatistics/interest-group/) is to create an environment where data managers from throughout Johns Hopkins can meet to share expertise and discuss the challenges of their unique roles in the research enterprise.
 
 
 

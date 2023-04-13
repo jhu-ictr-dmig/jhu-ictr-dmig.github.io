@@ -1,27 +1,17 @@
-# Minimal Mistakes remote theme starter
+# JHU ICTR Data Management Best Practices
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This site is meant to help researchers familiarize themselves with best practices and resources available for addressing the challenges of research data management. Github allows the DMIG to host these best practices on a version controlled site, with tools to facilitate keeping these practices and linked resources up to date.
 
-Contains basic configuration to get you a site with:
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
----
+## How to Contribute
 
-## Troubleshooting
+Users can suggest changes, using the tools of Github (issues, pull requests), or by reaching out via email and Teams. Join the ICTR Data Managers Interest Group channel on JH Teams. For those outside of Johns Hopkins, reach out to us via email. Links to profiles and contact information of group members are in the [about us](https://jhu-ictr-dmig.github.io/about/) page.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+
+### Opening Issues
+
+If you have any suggested improvements, [open an issue](https://docs.github.com/en/issues) at [our website's repository](https://github.com/jhu-ictr-dmig). These changes could be small improvements (identifying broken links, suggesting new resources) or large (new topics). If you have suggestions on changes, you can also [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
