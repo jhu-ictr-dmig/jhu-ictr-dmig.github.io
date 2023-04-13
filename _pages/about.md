@@ -29,6 +29,7 @@ If you have suggestions for new best practices, revisions, or clarifications, go
 
 DMIG Members are listed alphabetically below:
 
+  - [Josh Betz](https://publichealth.jhu.edu/faculty/2679/joshua-betz)
   - [Scott Carey](https://ictr.johnshopkins.edu/service/analysis-biostatistics/interest-group)
   - [Kit Carson](https://publichealth.jhu.edu/faculty/2024/kathryn-carsontony)
   - [Dave Fearon](https://www.library.jhu.edu/staff/david-fearon/)
@@ -39,7 +40,30 @@ DMIG Members are listed alphabetically below:
 
 
 
+
 ## Acknowledgments & Contributors:
 
-The DMIG Data Management Best Practices are the collective work of many individuals:
+The DMIG Data Management Best Practices are the collective work of many individuals, who are listed alphabetically below:
 
+Diane E. Alejo
+Radhika J Avadhani, MS
+Joshua Betz, MS
+Scott M. Carey, BS
+Kathryn A. Carson, Sc.M.
+Joseph M. DiNatale Jr., MS
+Rachel Dlugash,  MSPH
+David Fearon, Ph.D., MLIS
+Daniel Ford, MD, MPH
+Sharon Ghazarian, Ph.D.
+Elizabeth Gunia, Ph.D., MLS
+Anthony Keyes, MBA, PMP
+Young-Joo Lee, MS, MA
+Todd Nesson, BA
+Kelly Crowley Sikorski
+Carol Thompson, MS, MBA
+Claire Twose, MLIS
+Ying Wang, MS
+Corey Wickliffe, BS
+Lisa R. Yanek, MPH
+
+Any errors or omissions are unintentional: if you notice any omissions have any suggested updates, please open an issue and they will be addressed.
