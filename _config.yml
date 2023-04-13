@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "JHU ICTR Data Managers Interest Group"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cropped-ICTR-logo.png"
   bio    : "Sharing best practices in data management with our research community."
   links:
     - label: "Website"
